@@ -1,0 +1,15 @@
+.complete{
+    outline: none;
+    background-color: #fff;
+    border: 2px solid hotpink;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 200px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.complete:hover {
+    background-color: black;
+  color: hotpink;
+  }
